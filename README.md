@@ -17,7 +17,7 @@ A structured archive of hands-on exercises, Python concepts, and workshop experi
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 - Python 3.6+
 - OpenCV
 - Keras / TensorFlow
